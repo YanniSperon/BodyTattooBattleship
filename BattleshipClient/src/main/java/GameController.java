@@ -217,8 +217,12 @@ public class GameController implements CustomController, Initializable {
     }
 
     private void onEscapePressed() {
-        if (currentHeldPiece != null) {
-            removePieceFromHandError();
+        if (!SHOULD_USE_KEYBOARD_CONTROLS) {
+            if (currentHeldPiece != null) {
+                removePieceFromHandError();
+            }
+        } else {
+            onLeaveGame();
         }
     }
 
