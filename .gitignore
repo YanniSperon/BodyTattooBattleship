@@ -1,3 +1,9 @@
 /Battleship.zip
 /BattleshipClient/target/
 /BattleshipServer/target/
+/BattleshipServer/out/
+/BattleshipClient/out/
+/BattleshipServer/META-INF/
+/BattleshipClient/META-INF/
+/BattleshipServer/.idea/artifacts/
+/BattleshipClient/.idea/artifacts/
