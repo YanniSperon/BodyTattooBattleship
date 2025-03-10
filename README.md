@@ -1,7 +1,7 @@
-# A basic 3D Battleship game server and client written in Java using JavaFX
+# A basic 3D Battleship game server and client written in Java using JavaFX adapted to be used with a wearable capacitive touch sensor
 
-## Includes a public game finder, as well as the ability to play against an algorithm
+Code adapted from [this repository](https://github.com/YanniSperon/Battleship)
 
-Server adapted from [this repository](https://github.com/YanniSperon/MessagingApp)
+All Battleship features can be viewed in the other repository, here is an example of where the device prototype could go for example.
 
-(Does not implement saved logins or passwords, users simply login by entering their desired username)
+![Screenshot (23)](https://github.com/YanniSperon/BodyTattooBattleship/blob/9ce59bb90711cb06b56a18fd82a7fb462ee655a1/Screenshot%20(23).png)
