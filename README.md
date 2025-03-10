@@ -4,4 +4,4 @@ Code adapted from [this repository](https://github.com/YanniSperon/Battleship)
 
 All Battleship features can be viewed in the other repository, here is an example of where the device prototype could go for example.
 
-![Screenshot (23)](https://github.com/YanniSperon/BodyTattooBattleship/blob/9ce59bb90711cb06b56a18fd82a7fb462ee655a1/Screenshot%20(23).png)
+![Screenshot (23)](https://github.com/user-attachments/assets/7698b740-53c0-4d67-a13e-659eb35da2a4)
